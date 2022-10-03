@@ -46,17 +46,17 @@
                         <text fill="#000000" stroke="none" font-family="Arial" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="47.05882352941177" y="108.72" text-anchor="middle">2</text>
                     </g>
                     <g class="dcg-svg-axis-value">
-                        <text fill="none" stroke="#ffffff" font-family="Arial" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.17647058823528" y="108.72" text-anchor="middle" stroke-miterlimit="2" stroke-width="3" stroke-dasharray="">3</text>
-                        <text fill="#000000" stroke="none" font-family="Arial" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="141.17647058823528" y="108.72" text-anchor="middle">3</text>
+                        <text fill="none" stroke="#ffffff" font-family="Arial" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="142.8" y="108.72" text-anchor="middle" stroke-miterlimit="2" stroke-width="3" stroke-dasharray="">3</text>
+                        <text fill="#000000" stroke="none" font-family="Arial" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="142.8" y="108.72" text-anchor="middle">3</text>
                     </g>
                 </g>
                 <g class="dcg-svg-axis-label">
-                    <text fill="none" stroke="#ffffff" font-family="Times" font-size="14px" font-style="italic" font-weight="normal" text-decoration="normal" x="138.7861328125" y="121" text-anchor="start" stroke-miterlimit="2" stroke-width="3" stroke-dasharray="">x</text>
-                    <text fill="#000000" stroke="none" font-family="Times" font-size="14px" font-style="italic" font-weight="normal" text-decoration="normal" x="138.7861328125" y="121" text-anchor="start">x</text>
+                    <text fill="none" stroke="#ffffff" font-family="Times" font-size="14px" font-style="italic" font-weight="normal" text-decoration="normal" x="151" y="90" text-anchor="start" stroke-miterlimit="2" stroke-width="3" stroke-dasharray="">x</text>
+                    <text fill="#000000" stroke="none" font-family="Times" font-size="14px" font-style="italic" font-weight="normal" text-decoration="normal" x="151" y="90" text-anchor="start">x</text>
                 </g>
                 <g class="dcg-svg-axis-label" transform="translate(-133.96260340073528,25)">
-                    <text fill="none" stroke="#ffffff" font-family="Times" font-size="14px" font-style="italic" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="start" stroke-miterlimit="2" stroke-width="3" stroke-dasharray="">y</text>
-                    <text fill="#000000" stroke="none" font-family="Times" font-size="14px" font-style="italic" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="start">y</text>
+                    <text fill="none" stroke="#ffffff" font-family="Times" font-size="14px" font-style="italic" font-weight="normal" text-decoration="normal" x="" y="" text-anchor="start" stroke-miterlimit="2" stroke-width="3" stroke-dasharray="">y</text>
+                    <text fill="#000000" stroke="none" font-family="Times" font-size="14px" font-style="italic" font-weight="normal" text-decoration="normal" x="" y="" text-anchor="start">y</text>
                 </g>
             </g>
         </g>
