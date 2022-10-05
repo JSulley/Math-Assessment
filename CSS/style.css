@@ -1,3 +1,7 @@
 .graph {
     width: 13rem;
 }
+
+.question-label {
+    font-size: 1.5rem;
+}
