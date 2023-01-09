@@ -1,6 +1,6 @@
 window.onload = () => {
     // Minutes for timer
-    let minutesAllowed = 1;
+    let minutesAllowed = 30;
     const SECONDSPERMINUTE = 60;
 
     // Calculate time in seconds
