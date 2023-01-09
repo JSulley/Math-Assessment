@@ -11,6 +11,7 @@ window.onload = () => {
 }
 
 const startTimer = (duration, display) => {
+    var minutes, seconds;
     var timeLeft = duration;
 
     var timer = setInterval(() => {
