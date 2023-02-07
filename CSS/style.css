@@ -6,6 +6,10 @@
     font-size: 1.5rem;
 }
 
-.tip {
-    color: blue;
+#timerDisplay {
+    text-align: center;
+    display: inline-block;
+    position: fixed;
+    right: 0;
+    border: solid;
 }
